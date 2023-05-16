@@ -1,5 +1,5 @@
 function bmi(weight, height) {
-    console.log(weight / height ** 2)
+    return (weight / height ** 2)
 }
 
 // código de prueba
