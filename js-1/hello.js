@@ -1,5 +1,5 @@
 function Hola(name) {
-    console.log("Hola " + name + "!")
+    return ("Hola " + name + "!")
 }
 
 // código de prueba
